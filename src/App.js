@@ -22,7 +22,7 @@ class App extends Component {
             projectId: "centraldeconfeferencias-1",
             storageBucket: "centraldeconfeferencias-1.appspot.com",
             messagingSenderId: "1089616902499"
-        })
+        });
     }
 
     render() {
